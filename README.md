@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Node Website
 
 This repo demonstrates a basic website using node.js.  
@@ -13,3 +14,6 @@ It supports these 4 pages on localhost:8080:
 * 404 for anything not listed above
 
 The website can be seen [here](https://mleers.github.io/simple-node-website/)
+=======
+# Kubernetes
+>>>>>>> origin/main
